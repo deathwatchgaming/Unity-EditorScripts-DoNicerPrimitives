@@ -130,7 +130,7 @@ public class DoNicerPrimitives : MonoBehaviour
         // position
         _sandBoxWallBCREATE.transform.position = new Vector3(-4.5f, 2.5f, 0);
 
-        // Roatate
+        // Rotate
         _sandBoxWallBCREATE.transform.Rotate(0, -90, 0);
 
         //parent
