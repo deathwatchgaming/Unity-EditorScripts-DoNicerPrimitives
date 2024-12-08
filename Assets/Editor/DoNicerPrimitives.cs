@@ -133,7 +133,7 @@ public class DoNicerPrimitives : MonoBehaviour
         // Rotate
         _sandBoxWallBCREATE.transform.Rotate(0, -90, 0);
 
-        //parent
+        // parent
         _sandBoxWallBCREATE.transform.parent = _sandBoxSmallCREATE.transform;
 
         // Do Color
